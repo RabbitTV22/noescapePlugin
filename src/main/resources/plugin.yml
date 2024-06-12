@@ -1,0 +1,4 @@
+name: noescape
+version: '${version}'
+main: net.rabbitnetwork.noescape.Noescape
+api-version: '1.20'

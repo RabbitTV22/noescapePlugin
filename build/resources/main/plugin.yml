@@ -1,0 +1,4 @@
+name: noescape
+version: '1.0-SNAPSHOT'
+main: net.rabbitnetwork.noescape.Noescape
+api-version: '1.20'
